@@ -1,12 +1,19 @@
 # 💫 About Me:
-I’m a Computer Engineering student at UBC with a strong interest in building scalable full-stack systems and high-performance software. 
-I’ve worked on production backend services during my Software Engineering Internship at ScaleEasy, where I developed RESTful APIs, optimized SQL queries under concurrent load, and improved system reliability in a cloud environment. 
-My projects include a real-time web discussion platform built with JavaScript, Node.js, and MongoDB featuring AI-based content moderation; 
-An F1TENTH autonomous driving system where I implemented real-time control logic and sensor processing using Python and C++; 
-An ARC4 FPGA cryptographic engine that reduced runtime by ~99% through hardware parallelization; 
-And a hotel management system with a normalized SQL database and structured backend architecture. 
-I enjoy solving complex problems, optimizing systems for performance, and building software that delivers real-world impact.
+I’m a Computer Engineering student at UBC with a strong interest in building scalable full-stack systems and high-performance software. I enjoy designing reliable architectures, optimizing performance under real-world constraints, and building software that delivers measurable impact.
 
+🚀 Few of my Projects
+
+Real-Time Web Discussion Platform
+Built a full-stack application using JavaScript, Node.js, and MongoDB with REST APIs and WebSocket-based real-time updates. Implemented AI-based content moderation and structured authentication flows.
+
+F1TENTH Autonomous Driving System
+Developed real-time control logic and sensor processing using Python and C++. Implemented PID-based steering and integrated LiDAR data for autonomous wall-following and emergency braking.
+
+ARC4 FPGA Cryptographic Engine
+Designed and implemented a hardware-based cryptographic system in SystemVerilog, parallelizing cores to reduce runtime by ~99%.
+
+Hotel Management System
+Designed a normalized SQL database and structured backend architecture to streamline operational workflows with REST-style services.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gursimranwalia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gursimransinghwalia23@gmail.com) 
