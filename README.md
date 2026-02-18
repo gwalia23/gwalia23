@@ -3,16 +3,20 @@ I’m a Computer Engineering student at UBC with a strong interest in building s
 
 🚀 Few of my Projects
 
-Real-Time Web Discussion Platform
+**Real-Time Web Discussion Platform:**
+
 Built a full-stack application using JavaScript, Node.js, and MongoDB with REST APIs and WebSocket-based real-time updates. Implemented AI-based content moderation and structured authentication flows.
 
-F1TENTH Autonomous Driving System
+**F1TENTH Autonomous Driving System:**
+
 Developed real-time control logic and sensor processing using Python and C++. Implemented PID-based steering and integrated LiDAR data for autonomous wall-following and emergency braking.
 
-ARC4 FPGA Cryptographic Engine
+**ARC4 FPGA Cryptographic Engine:**
+
 Designed and implemented a hardware-based cryptographic system in SystemVerilog, parallelizing cores to reduce runtime by ~99%.
 
-Hotel Management System
+**Hotel Management System:**
+
 Designed a normalized SQL database and structured backend architecture to streamline operational workflows with REST-style services.
 
 ## 🌐 Socials:
