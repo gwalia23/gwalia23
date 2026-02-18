@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a Computer Engineering student at UBC with a strong interest in building scalable full-stack systems and high-performance software. I’ve worked on production backend services during my Software Engineering Internship at ScaleEasy, where I developed RESTful APIs, optimized SQL queries under concurrent load, and improved system reliability in a cloud environment. My projects include a real-time web discussion platform built with JavaScript, Node.js, and MongoDB featuring AI-based content moderation; an F1TENTH autonomous driving system where I implemented real-time control logic and sensor processing using Python and C++; an ARC4 FPGA cryptographic engine that reduced runtime by ~99% through hardware parallelization; and a hotel management system with a normalized SQL database and structured backend architecture. I enjoy solving complex problems, optimizing systems for performance, and building software that delivers real-world impact.
+I’m a Computer Engineering student at UBC with a strong interest in building scalable full-stack systems and high-performance software. 
+I’ve worked on production backend services during my Software Engineering Internship at ScaleEasy, where I developed RESTful APIs, optimized SQL queries under concurrent load, and improved system reliability in a cloud environment. 
+My projects include a real-time web discussion platform built with JavaScript, Node.js, and MongoDB featuring AI-based content moderation; 
+An F1TENTH autonomous driving system where I implemented real-time control logic and sensor processing using Python and C++; 
+An ARC4 FPGA cryptographic engine that reduced runtime by ~99% through hardware parallelization; 
+And a hotel management system with a normalized SQL database and structured backend architecture. 
+I enjoy solving complex problems, optimizing systems for performance, and building software that delivers real-world impact.
 
 
 ## 🌐 Socials:
